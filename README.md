@@ -15,4 +15,5 @@ This repo contains notes.
 | [0182-duplicate-emails](https://github.com/saiakhil2103/Notes/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/saiakhil2103/Notes/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/saiakhil2103/Notes/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/saiakhil2103/Notes/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
