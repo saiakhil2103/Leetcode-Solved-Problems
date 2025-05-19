@@ -18,4 +18,16 @@ This repo contains notes.
 | [0185-department-top-three-salaries](https://github.com/saiakhil2103/Notes/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/saiakhil2103/Notes/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/saiakhil2103/Notes/tree/master/0197-rising-temperature) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saiakhil2103/Notes/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saiakhil2103/Notes/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saiakhil2103/Notes/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
