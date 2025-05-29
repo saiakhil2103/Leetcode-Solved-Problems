@@ -18,6 +18,7 @@ This repo contains notes.
 | [0185-department-top-three-salaries](https://github.com/saiakhil2103/Notes/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/saiakhil2103/Notes/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/saiakhil2103/Notes/tree/master/0197-rising-temperature) |
+| [1182-game-play-analysis-iv](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1182-game-play-analysis-iv) |
 ## Linked List
 |  |
 | ------- |
