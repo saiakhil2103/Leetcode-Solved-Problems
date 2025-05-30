@@ -22,6 +22,7 @@ This repo contains notes.
 | [0577-employee-bonus](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0585-investments-in-2016) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0595-big-countries) |
 | [1182-game-play-analysis-iv](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1182-game-play-analysis-iv) |
 ## Linked List
