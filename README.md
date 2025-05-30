@@ -24,6 +24,7 @@ This repo contains notes.
 | [0585-investments-in-2016](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0595-big-countries) |
+| [0601-human-traffic-of-stadium](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0601-human-traffic-of-stadium) |
 | [1182-game-play-analysis-iv](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1182-game-play-analysis-iv) |
 ## Linked List
 |  |
