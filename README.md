@@ -39,4 +39,16 @@ This repo contains notes.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saiakhil2103/Notes/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
