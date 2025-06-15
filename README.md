@@ -42,6 +42,7 @@ This repo contains notes.
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -55,5 +56,10 @@ This repo contains notes.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
