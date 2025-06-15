@@ -43,6 +43,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@ This repo contains notes.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
