@@ -35,6 +35,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saiakhil2103/Notes/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -43,6 +44,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
@@ -55,6 +57,7 @@ This repo contains notes.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
