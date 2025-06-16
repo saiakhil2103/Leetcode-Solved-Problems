@@ -42,6 +42,7 @@ This repo contains notes.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
@@ -68,6 +69,7 @@ This repo contains notes.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
