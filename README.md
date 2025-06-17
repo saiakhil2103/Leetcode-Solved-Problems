@@ -52,6 +52,7 @@ This repo contains notes.
 | [0088-merge-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,10 +78,19 @@ This repo contains notes.
 | [0031-next-permutation](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
