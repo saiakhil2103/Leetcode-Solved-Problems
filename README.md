@@ -36,10 +36,12 @@ This repo contains notes.
 | ------- |
 | [0002-add-two-numbers](https://github.com/saiakhil2103/Notes/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saiakhil2103/Notes/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
