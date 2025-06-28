@@ -45,6 +45,7 @@ This repo contains notes.
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
@@ -84,6 +85,7 @@ This repo contains notes.
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
@@ -91,6 +93,7 @@ This repo contains notes.
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
