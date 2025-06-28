@@ -45,6 +45,7 @@ This repo contains notes.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
@@ -62,6 +63,7 @@ This repo contains notes.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
