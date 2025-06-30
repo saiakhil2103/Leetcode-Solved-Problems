@@ -95,6 +95,7 @@ This repo contains notes.
 | [0031-next-permutation](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -129,4 +130,8 @@ This repo contains notes.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
