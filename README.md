@@ -62,6 +62,7 @@ This repo contains notes.
 | [0229-majority-element-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ This repo contains notes.
 | [0075-sort-colors](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@ This repo contains notes.
 | [0088-merge-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
