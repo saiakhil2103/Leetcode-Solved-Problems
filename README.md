@@ -66,6 +66,7 @@ This repo contains notes.
 | [0643-maximum-average-subarray-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [2358-number-of-ways-to-split-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ This repo contains notes.
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [2358-number-of-ways-to-split-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 ## Combinatorics
 |  |
 | ------- |
