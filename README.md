@@ -31,6 +31,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saiakhil2103/Notes/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
