@@ -31,6 +31,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saiakhil2103/Notes/tree/master/0002-add-two-numbers) |
+| [0908-middle-of-the-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +106,7 @@ This repo contains notes.
 | [0088-merge-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
