@@ -69,6 +69,7 @@ This repo contains notes.
 | [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -83,6 +84,7 @@ This repo contains notes.
 | [0169-majority-element](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 ## Matrix
 |  |
 | ------- |
@@ -147,6 +149,7 @@ This repo contains notes.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## String
 |  |
