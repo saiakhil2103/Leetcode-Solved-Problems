@@ -43,6 +43,7 @@ This repo contains notes.
 | [0050-powx-n](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +77,7 @@ This repo contains notes.
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
