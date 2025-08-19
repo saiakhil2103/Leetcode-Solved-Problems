@@ -44,6 +44,7 @@ This repo contains notes.
 | [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
@@ -90,6 +91,7 @@ This repo contains notes.
 | [0141-linked-list-cycle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0940-fruit-into-baskets) |
@@ -122,6 +124,7 @@ This repo contains notes.
 | [0125-valid-palindrome](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
