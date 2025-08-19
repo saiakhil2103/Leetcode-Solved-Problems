@@ -35,6 +35,7 @@ This repo contains notes.
 | [0021-merge-two-sorted-lists](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Math
@@ -54,6 +55,7 @@ This repo contains notes.
 | [0021-merge-two-sorted-lists](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +127,7 @@ This repo contains notes.
 | [0141-linked-list-cycle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -181,4 +184,8 @@ This repo contains notes.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
