@@ -10,4 +10,3 @@ class Solution:
             else:
                 consecutive_zeros=0
         return answer
-                    
