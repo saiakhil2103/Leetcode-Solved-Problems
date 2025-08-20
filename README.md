@@ -80,6 +80,7 @@ This repo contains notes.
 | [0940-fruit-into-baskets](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -103,6 +104,7 @@ This repo contains notes.
 | [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +112,7 @@ This repo contains notes.
 | [0062-unique-paths](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
