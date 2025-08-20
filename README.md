@@ -134,6 +134,7 @@ This repo contains notes.
 | [0234-palindrome-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -178,6 +179,7 @@ This repo contains notes.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
 | ------- |
