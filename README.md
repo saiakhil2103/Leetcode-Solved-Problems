@@ -83,6 +83,7 @@ This repo contains notes.
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2358-number-of-ways-to-split-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -106,6 +107,7 @@ This repo contains notes.
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@ This repo contains notes.
 | [0118-pascals-triangle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,4 +200,9 @@ This repo contains notes.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
+| [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
