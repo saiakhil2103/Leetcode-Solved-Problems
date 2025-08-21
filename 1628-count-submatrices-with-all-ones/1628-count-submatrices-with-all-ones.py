@@ -18,5 +18,3 @@ class Solution:
                         s+=h
                     result+=s
         return result
-
-
