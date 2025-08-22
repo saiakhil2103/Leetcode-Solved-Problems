@@ -119,6 +119,7 @@ This repo contains notes.
 | [0062-unique-paths](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0392-is-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Divide and Conquer
@@ -144,6 +145,7 @@ This repo contains notes.
 | [0344-reverse-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -192,6 +194,7 @@ This repo contains notes.
 | [0125-valid-palindrome](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
