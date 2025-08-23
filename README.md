@@ -87,6 +87,7 @@ This repo contains notes.
 | [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2358-number-of-ways-to-split-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ This repo contains notes.
 | [0074-search-a-2d-matrix](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Dynamic Programming
 |  |
@@ -247,4 +249,8 @@ This repo contains notes.
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
