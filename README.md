@@ -84,6 +84,7 @@ This repo contains notes.
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2358-number-of-ways-to-split-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -124,6 +125,7 @@ This repo contains notes.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0392-is-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Divide and Conquer
 |  |
@@ -194,6 +196,7 @@ This repo contains notes.
 | [0643-maximum-average-subarray-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
 |  |
 | ------- |
