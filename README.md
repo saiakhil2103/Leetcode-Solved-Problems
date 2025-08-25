@@ -77,6 +77,7 @@ This repo contains notes.
 | [0283-move-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0498-diagonal-traverse](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0940-fruit-into-baskets) |
@@ -112,6 +113,7 @@ This repo contains notes.
 | [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -256,4 +258,8 @@ This repo contains notes.
 |  |
 | ------- |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
