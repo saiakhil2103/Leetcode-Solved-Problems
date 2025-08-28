@@ -92,6 +92,7 @@ This repo contains notes.
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ This repo contains notes.
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +175,7 @@ This repo contains notes.
 | [0229-majority-element-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
