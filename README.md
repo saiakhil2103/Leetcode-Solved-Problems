@@ -48,6 +48,7 @@ This repo contains notes.
 | [0202-happy-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Recursion
 |  |
 | ------- |
