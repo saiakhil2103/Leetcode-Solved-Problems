@@ -64,6 +64,7 @@ This repo contains notes.
 | [0018-4sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
@@ -101,6 +102,7 @@ This repo contains notes.
 | [0001-two-sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0141-linked-list-cycle) |
@@ -116,6 +118,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -276,4 +279,8 @@ This repo contains notes.
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
