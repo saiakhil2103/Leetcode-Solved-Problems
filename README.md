@@ -170,6 +170,7 @@ This repo contains notes.
 | [0557-reverse-words-in-a-string-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -224,6 +225,7 @@ This repo contains notes.
 | [0541-reverse-string-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0696-count-binary-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
