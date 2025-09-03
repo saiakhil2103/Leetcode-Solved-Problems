@@ -3,18 +3,13 @@ class Solution:
         n=len(nums)
         nums.sort()
         count=0
-        for i in range(n-2):
-            for j in range(i+1, n-1):
-                target=nums[i]+nums[j]
-                left,right=j+1,n-1
-                pos=j
-                while left<=right:
-                    mid=(left+right)//2
-                    if nums[mid]<target:
-                        pos=mid
-                        left=mid+1
-                    else:
-                        right=mid-1
-                count+=(pos-j)
+        for k in range(n-1,1,-1):
+            i,j=0,k-1
+            while i<j:
+                if nums[i]+nums[j]>nums[k]:
+                    count+=(j-i)
+                    j-=1
+                else:
+                    i+=1
         return count
                
