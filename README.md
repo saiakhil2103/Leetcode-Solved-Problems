@@ -65,6 +65,7 @@ This repo contains notes.
 | [0015-3sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0037-sudoku-solver) |
@@ -160,6 +161,7 @@ This repo contains notes.
 | [0016-3sum-closest](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
