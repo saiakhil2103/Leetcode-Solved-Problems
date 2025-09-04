@@ -1,10 +1,13 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        result = []
+        slow, fast = 0, 0
         visited = set()
-        i=0
-        for num in nums:
-            if num not in visited:
-                result.append(num)
-                visited.add(num)
-        nums[:]=result
+        result = 0
+        while fast != len(nums):
+            if nums[fast] not in visited:
+                visited.add(nums[fast])
+                nums[slow] = nums[fast]
+                slow += 1
+                result += 1
+            fast += 1
+        return result
