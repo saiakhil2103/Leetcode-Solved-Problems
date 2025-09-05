@@ -218,6 +218,7 @@ This repo contains notes.
 | ------- |
 | [0231-power-of-two](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Counting
 |  |
 | ------- |
@@ -296,6 +297,7 @@ This repo contains notes.
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Simulation
@@ -318,4 +320,8 @@ This repo contains notes.
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
