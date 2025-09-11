@@ -208,6 +208,7 @@ This repo contains notes.
 | [0349-intersection-of-two-arrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
@@ -258,6 +259,7 @@ This repo contains notes.
 | [0557-reverse-words-in-a-string-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0696-count-binary-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
