@@ -52,6 +52,7 @@ This repo contains notes.
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -260,6 +261,7 @@ This repo contains notes.
 | [0680-valid-palindrome-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0696-count-binary-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -339,8 +341,13 @@ This repo contains notes.
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
