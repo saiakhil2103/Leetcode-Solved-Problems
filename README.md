@@ -132,6 +132,7 @@ This repo contains notes.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0940-fruit-into-baskets](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Matrix
 |  |
 | ------- |
@@ -263,6 +264,7 @@ This repo contains notes.
 | [0680-valid-palindrome-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0696-count-binary-substrings) |
 | [1006-vowel-spellchecker](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Prefix Sum
