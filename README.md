@@ -109,6 +109,7 @@ This repo contains notes.
 | [1917-maximum-average-pass-ratio](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -135,6 +136,7 @@ This repo contains notes.
 | [0940-fruit-into-baskets](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 ## Matrix
 |  |
 | ------- |
@@ -267,6 +269,7 @@ This repo contains notes.
 | [0696-count-binary-substrings](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0696-count-binary-substrings) |
 | [1006-vowel-spellchecker](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Prefix Sum
@@ -341,6 +344,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 ## Geometry
 |  |
 | ------- |
@@ -362,4 +366,12 @@ This repo contains notes.
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
