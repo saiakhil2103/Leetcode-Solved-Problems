@@ -138,6 +138,7 @@ This repo contains notes.
 | [1006-vowel-spellchecker](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3797-design-spreadsheet) |
 ## Matrix
 |  |
@@ -349,6 +350,7 @@ This repo contains notes.
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3678-design-task-manager) |
 ## Geometry
 |  |
 | ------- |
@@ -374,9 +376,11 @@ This repo contains notes.
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
