@@ -116,6 +116,7 @@ This repo contains notes.
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ This repo contains notes.
 | [1006-vowel-spellchecker](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3797-design-spreadsheet) |
 ## Matrix
 |  |
 | ------- |
@@ -152,6 +154,7 @@ This repo contains notes.
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -272,6 +275,7 @@ This repo contains notes.
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -370,6 +374,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
