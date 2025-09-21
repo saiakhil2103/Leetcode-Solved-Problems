@@ -117,6 +117,7 @@ This repo contains notes.
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ This repo contains notes.
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -234,6 +236,7 @@ This repo contains notes.
 | [0611-valid-triangle-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [3827-implement-router](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -364,6 +367,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
@@ -378,9 +382,11 @@ This repo contains notes.
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
