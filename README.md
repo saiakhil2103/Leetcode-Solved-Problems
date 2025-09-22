@@ -111,6 +111,7 @@ This repo contains notes.
 | [2358-number-of-ways-to-split-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -139,6 +140,7 @@ This repo contains notes.
 | [1006-vowel-spellchecker](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3827-implement-router) |
@@ -248,6 +250,7 @@ This repo contains notes.
 | ------- |
 | [0169-majority-element](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Union Find
 |  |
 | ------- |
