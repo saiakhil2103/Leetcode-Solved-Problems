@@ -45,6 +45,7 @@ This repo contains notes.
 | [0048-rotate-image](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
+| [0166-fraction-to-recurring-decimal](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -130,6 +131,7 @@ This repo contains notes.
 | [0128-longest-consecutive-sequence](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
@@ -272,6 +274,7 @@ This repo contains notes.
 | [0003-longest-substring-without-repeating-characters](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0392-is-subsequence) |
