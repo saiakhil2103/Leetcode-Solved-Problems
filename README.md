@@ -51,6 +51,7 @@ This repo contains notes.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -109,6 +110,7 @@ This repo contains notes.
 | [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -301,6 +303,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -347,6 +350,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Memoization
 |  |
