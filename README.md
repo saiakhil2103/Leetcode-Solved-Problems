@@ -55,6 +55,7 @@ This repo contains notes.
 | [2432-number-of-zero-filled-subarrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -352,6 +353,7 @@ This repo contains notes.
 | [0498-diagonal-traverse](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0498-diagonal-traverse) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3336-water-bottles-ii) |
 ## Memoization
 |  |
 | ------- |
