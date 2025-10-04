@@ -71,6 +71,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0018-4sum) |
@@ -191,6 +192,7 @@ This repo contains notes.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0018-4sum) |
@@ -343,6 +345,7 @@ This repo contains notes.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1917-maximum-average-pass-ratio) |
