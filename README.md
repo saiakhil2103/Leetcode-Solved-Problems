@@ -107,6 +107,7 @@ This repo contains notes.
 | [0611-valid-triangle-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0794-swim-in-rising-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [0940-fruit-into-baskets](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -167,6 +168,7 @@ This repo contains notes.
 | [0407-trapping-rain-water-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -256,6 +258,7 @@ This repo contains notes.
 | [0349-intersection-of-two-arrays](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0794-swim-in-rising-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [3827-implement-router](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3827-implement-router) |
 ## Bit Manipulation
@@ -274,6 +277,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0794-swim-in-rising-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 ## Sliding Window
 |  |
 | ------- |
@@ -337,12 +341,14 @@ This repo contains notes.
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0794-swim-in-rising-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0794-swim-in-rising-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -385,6 +391,7 @@ This repo contains notes.
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3678-design-task-manager) |
