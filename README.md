@@ -116,6 +116,7 @@ This repo contains notes.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -152,6 +153,7 @@ This repo contains notes.
 | [0940-fruit-into-baskets](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3678-design-task-manager) |
@@ -260,6 +262,7 @@ This repo contains notes.
 | [0713-subarray-product-less-than-k](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1612-avoid-flood-in-the-city](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [3827-implement-router](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
@@ -364,6 +367,7 @@ This repo contains notes.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
+| [1612-avoid-flood-in-the-city](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1917-maximum-average-pass-ratio) |
 ## Enumeration
 |  |
@@ -392,6 +396,7 @@ This repo contains notes.
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/saiakhil2103/Leetcode-Solved-Problems/tree/master/3678-design-task-manager) |
